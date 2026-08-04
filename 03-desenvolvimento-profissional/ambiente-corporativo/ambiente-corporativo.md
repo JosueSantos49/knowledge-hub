@@ -1,5 +1,6 @@
 # Informações:
 Autor: Josué da Conceição Santos
+
 Data: 15/07/2026
 
 Categoria: carreira, tecnologia, mercado de trabalho, desenvolvimento profissional.
