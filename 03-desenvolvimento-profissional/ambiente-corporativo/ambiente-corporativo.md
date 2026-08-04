@@ -1,9 +1,14 @@
+# Informações:
+Autor: Josué da Conceição Santos
+
+Data: 15/07/2026
+
+Categoria: carreira, tecnologia, mercado de trabalho, desenvolvimento profissional.
+
 # Título do Artigo:
 Quais as tendências que você está apostando para o mundo corporativo? 
 
-# Informações:
-Autor: Josué da Conceição Santos 
-
+# Artigo:
 No mundo do trabalho o que as grandes organizações esperam para os profissionais se prepararem.
 
 O desafio para colaboradores acompanharem os avanços relacionados às novas tecnologias que surgem com propostas de inovação e melhorias seja para resolver um problema técnico em um projeto que atua na organização, melhoria de processo de negócio ou redução de custo são “pontos” que destaco. O tempo e interesse de evoluir profissionalmente devem ser bem organizados com um planejamento para a evolução que se deseja obter. Imagina atuar em um projeto de Tecnologia da Informação, com a proposta de prover sustentação em um legado (sistemas construído com tecnologias que foram descontinuadas por exemplo), dar manutenção no sistema para que o mesmo continue operando com autonomia de forma segura mas, migrando sua arquitetura legado para arquiteturas inovadoras atualizadas que prover mais segurança e outros benefícios como:
