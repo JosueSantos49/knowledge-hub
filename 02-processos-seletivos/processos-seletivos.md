@@ -1,4 +1,9 @@
 # Quais são suas melhores orientações para quem objetiva se recolocar em outra área ou conquistar um novo emprego na área de TI?
+Autor: Josué da Conceição Santos
+
+Data: 17/07/2026
+
+---
 
 Ninguém te contou desta forma onde, a consistência faz total diferença para conseguir um novo emprego na ramificação de uma área da TI ou migrar de área. 
 
@@ -15,8 +20,3 @@ Dicas extras:
 - Mesmo que não possua experiência na área que deseja ingressar, estude sobre os requisitos e atribuições de forma profunda para ter base de conhecimento.
 - Seja grato às oportunidades de aprender e feedbacks de melhoria.
 - Esteja sempre em movimento buscando se manter atualizado sobre novos recursos de tecnologia e normas relacionadas a sua área de atuação. 
-
-# Informações:
-Autor: Josué da Conceição Santos
-
-Data: 17/07/2026

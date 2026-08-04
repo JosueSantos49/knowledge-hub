@@ -1,7 +1,7 @@
 # knowledge-hub
 Biblioteca de artigos sobre Tecnologia da Informação, Engenharia de Software, carreira, liderança e desenvolvimento profissional produzidos por Josué da Conceição Santos.
 
-# 📚 Artigos sobre Tecnologia, Carreira e Desenvolvimento Profissional
+## Artigos sobre Tecnologia, Carreira e Desenvolvimento Profissional
 
 Seja bem-vindo(a)!
 
@@ -9,7 +9,7 @@ Este repositório reúne artigos autorais produzidos por **Josué da Conceição
 
 Os conteúdos publicados são baseados em experiências práticas, estudos, pesquisas e reflexões sobre o mercado de trabalho, tecnologia e desenvolvimento profissional.
 
-## 🎯 Objetivos
+## Objetivos
 
 * Compartilhar conhecimento técnico e profissional.
 * Incentivar a educação continuada.
@@ -19,7 +19,7 @@ Os conteúdos publicados são baseados em experiências práticas, estudos, pesq
 
 ---
 
-# 📂 Organização dos artigos
+# Organização dos artigos
 
 Os artigos estão organizados por áreas temáticas.
 
@@ -69,7 +69,7 @@ LGPD, privacidade, proteção de dados, compliance e boas práticas de seguranç
 
 ---
 
-# ✍️ Autor
+# Autor
 
 **Josué da Conceição Santos**
 
@@ -77,7 +77,7 @@ Graduado em Sistemas de Informação e profissional da área de Tecnologia da In
 
 ---
 
-# 🌐 Redes e Portfólio
+# Redes e Portfólio
 
 * LinkedIn
 * YouTube
