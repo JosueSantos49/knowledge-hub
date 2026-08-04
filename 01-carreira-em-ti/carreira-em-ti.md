@@ -1,22 +1,24 @@
-# Quais são suas melhores orientações para quem objetiva se recolocar em outra área ou conquistar um novo emprego na área de TI?
-
-Ninguém te contou desta forma onde, a consistência faz total diferença para conseguir um novo emprego na ramificação de uma área da TI ou migrar de área. 
-
-Iniciar com os recursos que tem/possui em tempo hábil que ao longo do percurso poderá ir melhorando e evoluindo. A sua origem foi nascer em uma família com bons recursos financeiros ou sem muitos recursos financeiros e será que isso impactou na evolução da sua carreira profissional. Muitas pessoas possuem um pensamento de que para iniciar tem que ter “super poderes com grandes recursos” e não precisa ser por esse pensamento. O que precisa é começar com constância, empenho, compromisso e seriedade que uma hora vai melhorar e chegar no resultado positivo que se deseja alcançar. De repente uma pessoa não consegue iniciar trabalhando na área profissional dos “sonhos” que escolheu para seguir na carreira mas, a oportunidade do momento atual é aquela que surgiu. Aqui o interessado deverá ser estratégico porque se pensar em ficar frustrado ou desanimado poderá comprometer o seu sucesso neste momento de evolução da carreira. Você se sente realizado profissionalmente hoje ou desmotivado?
-
-Imagine um cenário: a oportunidade que apareceu no momento é essa dá “oportunidade A” e tenho responsabilidades sérias como pagar despesas fixas e alimentação então, não tem jeito neste tempo hábil é necessário aceitar por questões das responsabilidades (e aqui ninguém te ajuda financeiramente), e ir investindo na educação continuada se preparando para novas oportunidades de processos seletivos com visão de futuro em alto nível. Esta é uma estratégia que funciona mesmo não sendo a que o seu coração queira seguir no momento. De repente você esteja terminando sua graduação ou até migrando de área profissional. E quando uma pessoa tem uma resposta que no momento não tem vaga na área de TI disponível que seja aderente ao seu perfil, o que fazer? Agradecer e buscar outra oportunidade em outra empresa sempre com o pensamento de positividade. Aqui vale muito a pena ter bom relacionamento com a rede de contatos para tirar dúvidas, perguntar sobre oportunidades profissionais futuras porque tudo pode acontecer e estar sempre preparado é uma boa ideia. Vai adiantar ficar reclamando pelos cantos dizendo que não possui oportunidade e colocando culpa até no vento?  
-
-Para conseguir um emprego precisa demonstrar que resolve o problema e está disposto a trabalhar em equipe com foco em entregar valor para o cliente. Porque o trabalho em equipe é importante? Para uma boa experiência do cliente que também pode ser “visualizado” como membro da equipe no projeto o bom relacionamento, comunicação, transparência e entregas de tarefas sendo aceitas dentro do prazo atendendo as expectativas contribui para o projeto ser aceito pelas partes interessadas. 
-
-Esta entrega agrega valor com resultado significativo e o cliente ficou satisfeito? Este resumo é crucial para o candidato que deseja ingressar em um novo emprego porque não basta só chegar no horário certo, bater o ponto e não faltar o emprego, mas sim ter este “espírito” de equipe e resolver problemas complexos mais seguir certamente o acordo do contrato assinado ao ingressar na organização respeitando e seguindo a cultura organizacional proferida.
-
-Dicas extras:
-- Compartilhar um currículo atualizado com um especialista para ver se a opinião do mesmo sobre o currículo está aderente às novas exigências do mercado.
-- Mesmo que não possua experiência na área que deseja ingressar, estude sobre os requisitos e atribuições de forma profunda para ter base de conhecimento.
-- Seja grato às oportunidades de aprender e feedbacks de melhoria.
-- Esteja sempre em movimento buscando se manter atualizado sobre novos recursos de tecnologia e normas relacionadas a sua área de atuação. 
-
-# Informações:
+# Qual foi a pergunta sobre carreira na área de TI que você mais recebeu sobre o mercado de trabalho e qual seria a sua resposta definitiva?
 Autor: Josué da Conceição Santos
 
 Data: 16/07/2026
+
+---
+
+A maior dúvida de carreira de TI existe e você pode responder com base na sua experiência sólida de mercado.
+
+Por que você não se torna um mentor de carreira para pessoas que desejam ingressar na área de Tecnologia da Informação ou pessoas que possuem interesse em migrar de área? Esta foi umas das perguntas que mais tive a oportunidade de responder em eventos como: treinamentos e palestras visto que mostrar segurança e com “larga escala” de período de experiência e prover essa segurança para orientar esse público alvo quando tenho a oportunidade de disseminar conhecimento com base em estudo de caso real. 
+
+Em universidades é comum alunos terem dúvidas sobre atuação no mercado de trabalho e quando no final das palestras é aberto a oportunidade para tirar dúvidas, alguns alunos perguntam sobre como foi a experiência de ter trabalhado na empresa A ou B. Aqui é interessante porque o interessado/aluno deverá ter um direcionamento para seguir o que, o seu coração enseja, tem interesse em seguir na carreira profissional e não seguir o que alguém imponha ou recomenda. Como assim alguém imponha? Vamos com calma que você irá entender este exemplo: imagina um pai que por algum motivo teve o seu sonho interrompido de seguir para uma profissão seja, por dificuldade, desistência ou outro fator e, pensa em sugerir que o filho(a) siga o mesmo “sonho”. Você está vivendo o seu sonho ou o sonho de outra pessoa? Isso é um risco porque cada pessoa deve seguir por escolha própria e seguir o seu coração para não ficar frustrada por escolher uma área profissional por influência de terceiros podendo se frustrar no futuro.   
+
+Dentro de seguir esta linha de raciocínio para ter uma oportunidade em uma área, o desafio para abrir alguma “porta” profissional o interessado deve estar preparado para participar de um processo de seleção que pode ser criterioso ou não. E dentro deste contexto, mesmo para iniciantes ou já atuantes no mercado, o currículo é uma peça chave que precisa ser muito bem elaborada visando objetividade e coerência para atender as expectativas do mercado. Você que deseja atuar na área de TI ou migrar de área possui um currículo aderente às novas tendências do mercado?
+
+Quando convidado para orientar este público que deseja ter um “laudo” de seu atual momento, percebo que a maioria das pessoas estão agindo da forma errada e perdendo oportunidades não por conta de não saberem um conhecimento técnico ou fazer determinada tarefa mas, por apresentar o básico com erro fútil e sem qualidade. Um recrutador filtra o candidato que está mais alinhado com os requisitos da vaga, mas quando é usado um recurso de Inteligência Artificial para fazer o primeiro filtro e se, for encontrado falhas simples já compromete a evolução do candidato no processo de seleção que sonha com uma oportunidade de vaga de emprego. Aqui sugiro antes de submeter o currículo compartilhar com algum profissional experiente o currículo para ter um olhar profundo passando segurança e credibilidade.
+
+Dicas extras:
+
+- Construa desde o período da faculdade ou ensino médio um portfólio sobre seu perfil profissional.
+- Participe de eventos da área profissional que deseja ingressar e colete comprovantes como certificados de participação.
+- Faça uma rede de contatos sólida sem visar interesse mas sim um bom relacionamento.
+- Seja presente nas redes sociais de forma estratégica agregando valor a causas úteis.
+- Não espere a resposta certa de como fazer mas, busque descobrir esta resposta e fazer de forma proativa.

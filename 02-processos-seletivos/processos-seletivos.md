@@ -16,6 +16,7 @@ Para conseguir um emprego precisa demonstrar que resolve o problema e está disp
 Esta entrega agrega valor com resultado significativo e o cliente ficou satisfeito? Este resumo é crucial para o candidato que deseja ingressar em um novo emprego porque não basta só chegar no horário certo, bater o ponto e não faltar o emprego, mas sim ter este “espírito” de equipe e resolver problemas complexos mais seguir certamente o acordo do contrato assinado ao ingressar na organização respeitando e seguindo a cultura organizacional proferida.
 
 Dicas extras:
+
 - Compartilhar um currículo atualizado com um especialista para ver se a opinião do mesmo sobre o currículo está aderente às novas exigências do mercado.
 - Mesmo que não possua experiência na área que deseja ingressar, estude sobre os requisitos e atribuições de forma profunda para ter base de conhecimento.
 - Seja grato às oportunidades de aprender e feedbacks de melhoria.

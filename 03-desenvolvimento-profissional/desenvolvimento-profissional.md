@@ -24,6 +24,7 @@ O profissional precisa dominar todo o conhecimento sobre as novas tendências qu
 Construa a sua história profissional com base no que irá te realizar sendo estratégico para o seu crescimento como pessoa feliz com a profissão que escolheu para seguir e mesmo que no “percurso” encontre algum obstáculo difícil saiba que com a constância em conhecimento e persistência em querer evoluir é possível o êxito em um momento. No exemplo citado acima sobre mudança de arquitetura em Sistemas de Informação destaco que a todo o momento uma equipe que atua em uma organização está sujeita a atuar em projetos com mudanças. Olhem estas mudanças como oportunidade de aprender, evoluir e se reinventar.
 
 Dicas extras:
+
 - Separe um tempo para conversar com profissionais com nível de senioridade que se destacam no projeto.
 - Seja investigativo não se contentando em ser raso nas entregas de tarefas.
 - Se tiver oportunidade de falar sobre suas atividades não tenha medo e fale com profundidade e propriedade.
