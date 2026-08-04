@@ -1,10 +1,3 @@
-# Informações:
-Autor: Josué da Conceição Santos
-
-Data: 15/07/2026
-
-Categoria: carreira, tecnologia, mercado de trabalho, desenvolvimento profissional.
-
 # Título do Artigo:
 Quais as tendências que você está apostando para o mundo corporativo? 
 
@@ -28,3 +21,10 @@ Dicas extras:
 - Seja investigativo não se contentando em ser raso nas entregas de tarefas.
 - Se tiver oportunidade de falar sobre suas atividades não tenha medo e fale com profundidade e propriedade.
 - Explore sempre a transparência de forma ética dentro do que é permitido da compliance na cultura organizacional da empresa que atua.
+
+# Informações:
+Autor: Josué da Conceição Santos
+
+Data: 15/07/2026
+
+Categoria: carreira, tecnologia, mercado de trabalho, desenvolvimento profissional.
