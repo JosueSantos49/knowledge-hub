@@ -1,4 +1,4 @@
-# Título do Artigo:
+# Título:
 Quais são suas melhores orientações para quem objetiva se recolocar em outra área ou conquistar um novo emprego na área de TI?
 
 # Artigo:
