@@ -1,5 +1,7 @@
-# Quais são suas melhores orientações para quem objetiva se recolocar em outra área ou conquistar um novo emprego na área de TI?
+# Título do Artigo:
+Quais são suas melhores orientações para quem objetiva se recolocar em outra área ou conquistar um novo emprego na área de TI?
 
+# Artigo:
 Ninguém te contou desta forma onde, a consistência faz total diferença para conseguir um novo emprego na ramificação de uma área da TI ou migrar de área. 
 
 Iniciar com os recursos que tem/possui em tempo hábil que ao longo do percurso poderá ir melhorando e evoluindo. A sua origem foi nascer em uma família com bons recursos financeiros ou sem muitos recursos financeiros e será que isso impactou na evolução da sua carreira profissional. Muitas pessoas possuem um pensamento de que para iniciar tem que ter “super poderes com grandes recursos” e não precisa ser por esse pensamento. O que precisa é começar com constância, empenho, compromisso e seriedade que uma hora vai melhorar e chegar no resultado positivo que se deseja alcançar. De repente uma pessoa não consegue iniciar trabalhando na área profissional dos “sonhos” que escolheu para seguir na carreira mas, a oportunidade do momento atual é aquela que surgiu. Aqui o interessado deverá ser estratégico porque se pensar em ficar frustrado ou desanimado poderá comprometer o seu sucesso neste momento de evolução da carreira. Você se sente realizado profissionalmente hoje ou desmotivado?
@@ -15,3 +17,8 @@ Dicas extras:
 - Mesmo que não possua experiência na área que deseja ingressar, estude sobre os requisitos e atribuições de forma profunda para ter base de conhecimento.
 - Seja grato às oportunidades de aprender e feedbacks de melhoria.
 - Esteja sempre em movimento buscando se manter atualizado sobre novos recursos de tecnologia e normas relacionadas a sua área de atuação. 
+
+# Informações:
+Autor: Josué da Conceição Santos
+
+Data: 16/07/2026
