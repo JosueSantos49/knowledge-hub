@@ -1,8 +1,5 @@
-# Knowledge Hub
 
-Biblioteca de artigos sobre Tecnologia da Informação, Engenharia de Software, Carreira, Liderança e Desenvolvimento Profissional.
-
-## Bem-vindo(a)!
+# Bem-vindo(a)!
 
 Este portal reúne artigos autorais produzidos por **Josué da Conceição Santos**, organizados por categorias para facilitar a consulta e o compartilhamento de conhecimento.
 
