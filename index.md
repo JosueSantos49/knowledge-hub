@@ -22,6 +22,7 @@ Este portal reúne artigos autorais produzidos por **Josué da Conceição Santo
 ### Ambiente Corporativo
 
 - [Qual foi o seu maior aprendizado profissional na área de TI e como você aplicou em benefício da equipe que atua agregando valor ao projeto do cliente?](04-ambiente-corporativo/ambiente-corporativo.md) — 22/07/2026
+
 - [Como lidar com a "frustração" no ambiente de trabalho por fazer o certo e ser interpretado como errado ao seguir uma orientação na equipe de TI?](04-ambiente-corporativo/ambiente-corporativo-frustracao.md) — 04/08/2026
 
 ### Desenvolvimento de Software
@@ -35,8 +36,11 @@ Este portal reúne artigos autorais produzidos por **Josué da Conceição Santo
 ### Portfólio e Autoridade
 
 - [Quantas vidas você já teve a oportunidade de impactar na sua área com alguma mensagem de conhecimento que agregou valor e fez sentido para a pessoa?](07-portfolio-e-autoridade/portfolio-e-autoridade.md) — 23/07/2026
+
 - [Se um Técnico de RH digitar o nome de um candidato a uma vaga de TI em algum buscador da internet qual o resultado da pesquisa irá aparecer?](07-portfolio-e-autoridade/portfolio-e-autoridade-internet.md) — 24/07/2026
+
 - [Como ganhar autoridade na carreira de TI atuando de forma profissional com comportamento estratégico nas plataformas digitais?](07-portfolio-e-autoridade/portfolio-e-autoridade-carreira-ti.md) — 30/07/2026
+
 - [Como passar a receber prestígio em convites para eventos de negócios de TI e ser valorizado na carreira com portfólio robusto?](07-portfolio-e-autoridade/portfolio-e-autoridade-convites.md) — 03/08/2026
 
 ### Networking
@@ -46,6 +50,7 @@ Este portal reúne artigos autorais produzidos por **Josué da Conceição Santo
 ### Processos Seletivos — Dev
 
 - [Como um candidato à vaga de Desenvolvedor Web pode passar segurança ao Analista de RH no processo seletivo para empresa de TI?](09-processos-seletivos/processos-seletivos-dev-passar-seguranca.md) — 28/07/2026
+
 - [Como um Desenvolvedor enfrenta um desafio técnico no processo seletivo e entrega uma "tarefa" ao gestor da área para análise do código fonte?](09-processos-seletivos/processos-seletivos-dev-desafio-tecnico.md) — 29/07/2026
 
 ---
