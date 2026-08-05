@@ -25,7 +25,11 @@ Você já pensou desta forma? Sair da rotina e do automático pode fazer com que
 Dicas extras:
 
 - Invista em como explorar o melhor uso da IA voltada a sua área de atuação profissional.
+
 - Não seja totalmente dependente da automação do processo que envolve a IA porque na falta da ferramenta de IA deverá resolver o problema.
+
 - Mantenha-se inserido em eventos da sua área de formação mas tenha curiosidade em conhecer profissionais e fortalecer sua rede de contatos de profissionais de outras áreas.
+
 - Busque inovar e esteja atualizado sobre o que está acontecendo no mundo da Tecnologia da Informação.
+
 - Pense em ser um profissional “fora da curva” que saiba fazer bem o seu trabalho visando a qualidade em alto nível.    

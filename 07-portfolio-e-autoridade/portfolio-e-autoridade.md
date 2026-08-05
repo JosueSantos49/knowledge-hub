@@ -8,13 +8,13 @@ Data: 23/07/2026
 
 No começo de um objetivo relacionado a criar vídeos sobre tecnologias, desenvolvimento profissional e educação continuada tive a experiência de iniciar o projeto com os recursos que possuía e desenvolver a mentalidade de ir melhorando no meio do “trajeto” e foi neste momento que surgiu a ideia de desenvolver um canal na plataforma do YouTube que hoje, consta 14 mil inscritos. 
 
-Quando comecei em 2011, motivado por postar o primeiro vídeo defendendo o Trabalho de Conclusão de Curso da Graduação à 12 anos atrás já, tinha o pensamento que poderia ser inspiração para outras pessoas da área de Tecnologia da Informação (TI) e aqui faço uma observação significativa que em Seropédica no Rio de Janeiro no bairro onde, cresci com a família pude compartilhar uma experiência positiva com amigos da época. Jovens que tinham vários sonhos mas, não o mesmo de seguir na área de TI.
+Quando comecei em 2011, motivado por postar o primeiro vídeo defendendo o Trabalho de Conclusão de Curso da Graduação à 12 anos atrás já, tinha o pensamento que poderia ser inspiração para outras pessoas da área de Tecnologia da Informação (TI) e aqui faço uma observação significativa que em Seropédica no Rio de Janeiro no bairro onde, cresci com a família pude compartilhar uma experiência positiva com amigos da época. Jovens que tinham vários sonhos mas, não o mesmo de seguir na área de TI. 
 
 A ideia em um primeiro momento seria ir amadurecendo neste projeto piloto do canal do Youtube, consolidando a experiência com o desejo de não ser somente mais um e sim uma referência com base sólida e bagagem firme para estar entre os “grandes profissionais” no mercado de trabalho.
 
 Um pensamento que sempre ajuda na evolução é saber separar momentos de trabalho para iniciativa em projetos em “segundo plano” de modo a não comprometer o trabalho principal visto que deva executar entregas com qualidade e dentro do prazo. Se suas tarefas estão sendo aceitas pelo cliente, não tenha medo de se aventurar em outras iniciativas pessoais e essa responsabilidade deve ser sua e não de outra pessoa.
 
-Aqui vale reforçar que de repente você não terá ninguém te motivando e a principal inspiração deve ser você mesmo acreditando na sua evolução. Imagina alguém citar: é motivo de muito orgulho e admiração a sua trajetória profissional com passagens em empresas do setor privado e público onde pode ser evidenciada com depoimentos de pessoas que já tiveram a oportunidade de ajudar com mentorias, treinamentos e orientações profissionais contundentes sabendo exatamente o que estava orientando com base em experiências sólidas.
+Aqui vale reforçar que de repente você não terá ninguém te motivando e a principal inspiração deve ser você mesmo acreditando na sua evolução. Imagina alguém citar: é motivo de muito orgulho e admiração a sua trajetória profissional com passagens em empresas do setor privado e público onde pode ser evidenciada com depoimentos de pessoas que já tiveram a oportunidade de ajudar com mentorias, treinamentos e orientações profissionais contundentes sabendo exatamente o que estava orientando com base em experiências sólidas. 
 
 Afinal foram anos de investimentos em capacitação continuada e hoje, poder afirmar que está preparado firme na gestão do conhecimento para “desafios” de ir além estourando a “bolha” desafiando a gravidade que ninguém mortal irá impedir seus sonhos. Podem até falar: esse pensamento é loucura até dar certo e está sonhando muito além do que comporta.
 
@@ -29,9 +29,7 @@ Enfim senti no coração de compartilhar com a rede este artigo mesmo sabendo qu
 Dicas extras:
 
 - Na dúvida de iniciar suas iniciativas com os recursos que possui começa sem medo de represálias e no meio do caminho vai melhorando.
-
 - Caso deseje construir uma identidade profissional respeitosa evite não propagar conteúdos que não fazem sentido com a sua área de atuação profissional.
-
 - Busque dosar a timidez em uma oportunidade de expor o seu conhecimento ao executar um vídeo para não perder oportunidades profissionais.
-
 - Não se contente com pouco e busque sempre evoluir ao lado de pessoas motivadas que possuem empatia.
+
